@@ -1,0 +1,24 @@
+---
+title: Wheelcover.xyz
+email: your-email@domain.com
+author: sitecoxyz
+author_github: sitcoxyz
+amazon_tracking_id: loucalnet-20
+search_term: wheelcover
+description: Coming Soon
+baseurl: "/"
+url: http://test.co
+paginate: 12
+home_bgfile: bg.jpg
+sass:
+  sass_dir: assets/css
+  style: compressed
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+gems:
+- jekyll-paginate
+exclude:
+- vendor
